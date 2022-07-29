@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning ReactJS and Docker  
   
 
-- ❓ Ask me about anything related to Symfony   
-  
-
 - ⚡ Fun fact: The only time I use semicolon is to code  
   
 
