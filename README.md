@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=80&color=52A1BE&background=FFFFFF&center=true&width=1900&height=200&lines=Hello+!+I'm+Dylan+!+%F0%9F%98%81+)](https://www.linkedin.com/in/dbutelle/)
 
-### <div align="center">I’m Dylan, a developer in my spare time, working on projects that make me love ♥️</div>  
+### <div align="center">I’m Dylan, a 🇫🇷 developer in my spare time, working on projects that make me love ♥️</div>  
   
 
 - 🔭 I’m currently working on [WEFA](https://github.com/dylanbutelle/wefa)  
